@@ -57,7 +57,7 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](http://localhost:8501/)
+* [Click here to run it live on server](https://muczvkmn8amu7j4mkfxi9u.streamlit.app/?view=details&id=437735)
 
 
 # Demo:
