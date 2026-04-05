@@ -1,6 +1,6 @@
 # Project: Movie Recommender System Using Machine Learning!
 
-<img src="6.jpeg" alt="workflow" width="70%">
+<img src="6 (1).jpeg" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -62,11 +62,11 @@ here is a demo,
 
 # Demo:
 
-<img src="1.png" alt="workflow" width="70%">
+<img src="1 (1).png" alt="workflow" width="70%">
 
-<img src="2.png" alt="workflow" width="70%">
+<img src="2 (1).png" alt="workflow" width="70%">
 
-<img src="3.png" alt="workflow" width="70%">
+<img src="3 (1).png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
